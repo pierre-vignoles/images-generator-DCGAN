@@ -22,6 +22,13 @@ Then you need to copy the following link in your Web browser :
 
 ![Screen1](https://github.com/pierre-vignoles/images-generator-DCGAN/blob/master/img/screen_1.png)
 
-## Screenshot
-![Screen1](https://github.com/pierre-vignoles/images-generator-DCGAN/blob/master/img/screen_2.png)
+![Screen2](https://github.com/pierre-vignoles/images-generator-DCGAN/blob/master/img/screen_2.png)
+
+## Training
+### Cars
+![Gif1](https://github.com/pierre-vignoles/images-generator-DCGAN/blob/master/img/cars.gif)
+### Horses
+![Gif2](https://github.com/pierre-vignoles/images-generator-DCGAN/blob/master/img/horses.gif)
+### Portrait
+![Gif3](https://github.com/pierre-vignoles/images-generator-DCGAN/blob/master/img/portrait.gif)
 

@@ -1,0 +1,5 @@
+dash~=2.0.0
+matplotlib==3.5.0
+numpy~=1.21.4
+plotly~=5.4.0
+tensorflow~=2.7.0

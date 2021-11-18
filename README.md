@@ -20,4 +20,8 @@ Execute the following command in a terminal : `python main.py`
 
 Then you need to copy the following link in your Web browser :  
 
-![Screen1](https://github.com/pierre-vignoles/auto_ml_outliers/blob/master/img/Screen_1.png)
+![Screen1](https://github.com/pierre-vignoles/images-generator-DCGAN/blob/master/img/screen_1.png)
+
+## Screenshot
+![Screen1](https://github.com/pierre-vignoles/images-generator-DCGAN/blob/master/img/screen_2.png)
+
